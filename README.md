@@ -1,2 +1,2 @@
 # ClientAccount
-ClientAccount
+Вы просили сделать Front-end часть этой страницы . Для переноски  её на CMS . Сделанно но нету php скриптов.
