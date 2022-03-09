@@ -1,0 +1,7 @@
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4.375 0H10V5.625L8.125 3.75L5.625 6.25L3.75 4.375L6.25 1.875L4.375 0Z" fill="black"/>
+<rect width="3.125" height="1.25" fill="black"/>
+<rect y="8.75" width="10" height="1.25" fill="black"/>
+<rect y="10" width="10" height="1.25" transform="rotate(-90 0 10)" fill="black"/>
+<rect x="8.75" y="10" width="3.125" height="1.25" transform="rotate(-90 8.75 10)" fill="black"/>
+</svg>

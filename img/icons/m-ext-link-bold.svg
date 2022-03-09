@@ -1,0 +1,8 @@
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="10" width="10" height="2" transform="rotate(-90 0 10)" fill="black"/>
+<rect x="8" y="10" width="5" height="2" transform="rotate(-90 8 10)" fill="black"/>
+<rect x="5" y="2" width="5" height="2" transform="rotate(180 5 2)" fill="black"/>
+<path d="M10 0H6.15387L10 3.84615V0Z" fill="black"/>
+<rect x="10" y="10" width="10" height="2" transform="rotate(180 10 10)" fill="black"/>
+<path d="M9.23077 0.769226L4.87935 5.12065" stroke="black" stroke-width="2"/>
+</svg>
